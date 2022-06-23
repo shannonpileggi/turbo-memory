@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+bunnies and reports, oh my!
+
 # packages-report
 
 ## Bonus activity prompt
@@ -64,7 +66,7 @@ devtools::session_info()
 #>  collate  English_United States.utf8
 #>  ctype    English_United States.utf8
 #>  tz       America/New_York
-#>  date     2022-06-20
+#>  date     2022-06-23
 #>  pandoc   2.17.1.1 @ C:/Program Files/RStudio/bin/quarto/bin/ (via rmarkdown)
 #> 
 #> ─ Packages ───────────────────────────────────────────────────────────────────
